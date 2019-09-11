@@ -16,4 +16,8 @@ class BankAccount
     p "Your balance is $#{@balance}."
   end
   
+  def valid?
+    
+  end
+  
 end
